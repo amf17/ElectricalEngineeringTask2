@@ -34,6 +34,7 @@ Connect the other leg of the right button to the GND pin on the Arduino.
 
 The code you provided is written for an Arduino using the Servo library. It initializes a servo motor and two buttons. The servo is controlled by the buttons: pressing the left button moves the servo to 0 degrees, and pressing the right button moves the servo to 180 degrees.
 
+## Circuit 
 ![picture](servo-motor.jpeg)
 
 
@@ -47,6 +48,9 @@ DC Motor(2)
 
 H-bridge Motor Driver
 
+## Circuit 
+
+![picture](Dc_Motor.jpeg)
 
 
 
