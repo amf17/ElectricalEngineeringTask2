@@ -37,6 +37,18 @@ The code you provided is written for an Arduino using the Servo library. It init
 ![picture](servo-motor.jpeg)
 
 
+# DC Motor
+
+## Circuit Components:
+
+Arduino Uno R3
+
+DC Motor(2)
+
+H-bridge Motor Driver
+
+
+
 
 
 
