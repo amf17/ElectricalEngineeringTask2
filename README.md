@@ -13,17 +13,21 @@ Pushbutton(2)
 1- Connect the servo motor:
 
 Connect the signal (control) wire of the servo to digital pin 9 on the Arduino board.
+
 Connect the power wire (usually red) of the servo to the 5V pin on the Arduino.
+
 Connect the ground wire (usually black or brown) of the servo to the GND pin on the Arduino.
 
 2- Connect the left button:
 
 Connect one leg of the left button to digital pin 7 on the Arduino.
+
 Connect the other leg of the left button to the GND pin on the Arduino.
 
 3- Connect the right button:
 
 Connect one leg of the right button to digital pin 5 on the Arduino.
+
 Connect the other leg of the right button to the GND pin on the Arduino.
 
 ## Code Explanation:
