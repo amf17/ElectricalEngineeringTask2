@@ -37,6 +37,8 @@ The code you provided is written for an Arduino using the Servo library. It init
 ## Circuit 
 ![picture](servo-motor.jpeg)
 
+### Link
+https://www.tinkercad.com/things/8wZLVJsZkcs?sharecode=gKoOhgthXO5_U6ju-3O7kgnpSU94G-vFptwpMRaCD7s
 
 # DC Motor
 
@@ -52,7 +54,8 @@ H-bridge Motor Driver
 
 ![picture](Dc_Motor.jpeg)
 
-
+### Link
+https://www.tinkercad.com/things/7nnwhtFkH8A?sharecode=zJHOLqAmmPTq-Bm8yd9WfgmyliRr8iHdOPDZOdECVwc
 
 
 
